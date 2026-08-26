@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-26T11:55:40Z",
+  "updatedAt": "2026-08-26T12:33:27Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -14,9 +14,9 @@
       "pack": {
         "format": "mrpack",
         "path": "instances/jiwen-chicken-power/pack.mrpack",
-        "sha512": "479e074b35e0f4bf524ec12e253d80cf2125d14f6e862e3f10fec1578d0f9350b6ebe099cad96dd9efcb6919010c4200a61a77a8cde0185fa3a212a53694a4ae",
-        "sizeBytes": 47944,
-        "versionId": "1.0.1"
+        "sha512": "cad4dc60af2b1e7088f153a334ef78d42906dcc55f5c99c08a8b92eec0b11c27c014e12e8f749a149bbc3114b8b526923a9f3ffad2f716247b4866c95dcf36e4",
+        "sizeBytes": 152470135,
+        "versionId": "1.0.4"
       }
     },
     {
@@ -24,8 +24,8 @@
       "name": "航空学",
       "summary": "",
       "mcVersion": "1.21.1",
-      "loaderType": "forge",
-      "loaderVersion": "",
+      "loaderType": "neoforge",
+      "loaderVersion": "21.1.248",
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "mrpack",
@@ -33,6 +33,22 @@
         "sha512": "479e074b35e0f4bf524ec12e253d80cf2125d14f6e862e3f10fec1578d0f9350b6ebe099cad96dd9efcb6919010c4200a61a77a8cde0185fa3a212a53694a4ae",
         "sizeBytes": 47944,
         "versionId": "1.0.0"
+      }
+    },
+    {
+      "id": "hellonewsc",
+      "name": "你好新蒸程",
+      "summary": "",
+      "mcVersion": "1.21.1",
+      "loaderType": "neoforge",
+      "loaderVersion": "",
+      "recommendedJavaMajor": 21,
+      "pack": {
+        "format": "mrpack",
+        "path": "instances/hellonewsc/pack.mrpack",
+        "sha512": "e75a25ac68d6fe8fb95c9120e212707beac19ba8fdea35e7014dc0a961eb164a7b5fac9319387fde88bbdaf46d5f717a32938fdb33ca4d62bcadebbfd4bfa6a7",
+        "sizeBytes": 918495230,
+        "versionId": "1.0.1"
       }
     }
   ]
