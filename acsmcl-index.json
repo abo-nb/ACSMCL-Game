@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-26T12:33:27Z",
+  "updatedAt": "2026-08-26T13:16:02Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -46,9 +46,9 @@
       "pack": {
         "format": "mrpack",
         "path": "instances/hellonewsc/pack.mrpack",
-        "sha512": "e75a25ac68d6fe8fb95c9120e212707beac19ba8fdea35e7014dc0a961eb164a7b5fac9319387fde88bbdaf46d5f717a32938fdb33ca4d62bcadebbfd4bfa6a7",
-        "sizeBytes": 918495230,
-        "versionId": "1.0.1"
+        "sha512": "cad4dc60af2b1e7088f153a334ef78d42906dcc55f5c99c08a8b92eec0b11c27c014e12e8f749a149bbc3114b8b526923a9f3ffad2f716247b4866c95dcf36e4",
+        "sizeBytes": 152470135,
+        "versionId": "1.0.2"
       }
     }
   ]
