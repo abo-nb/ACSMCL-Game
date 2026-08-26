@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-26T13:16:02Z",
+  "updatedAt": "2026-08-26T19:20:29Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -38,17 +38,17 @@
     {
       "id": "hellonewsc",
       "name": "你好新蒸程",
-      "summary": "",
+      "summary": "正式版 1.21.1, NeoForge 21.1.233",
       "mcVersion": "1.21.1",
       "loaderType": "neoforge",
-      "loaderVersion": "",
+      "loaderVersion": "21.1.233",
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "mrpack",
         "path": "instances/hellonewsc/pack.mrpack",
         "sha512": "cad4dc60af2b1e7088f153a334ef78d42906dcc55f5c99c08a8b92eec0b11c27c014e12e8f749a149bbc3114b8b526923a9f3ffad2f716247b4866c95dcf36e4",
         "sizeBytes": 152470135,
-        "versionId": "1.0.2"
+        "versionId": "1.0.3"
       }
     }
   ]
