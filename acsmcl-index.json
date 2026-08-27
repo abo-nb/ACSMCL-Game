@@ -1,22 +1,22 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-26T19:20:29Z",
+  "updatedAt": "2026-08-27T06:41:53Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
       "name": "见闻的鸡罢动力",
       "summary": "正式版 1.20.1, Forge 47.4.8",
-      "mcVersion": "1.20.1",
-      "loaderType": "forge",
-      "loaderVersion": "47.4.8",
+      "mcVersion": "1.21.1",
+      "loaderType": "neoforge",
+      "loaderVersion": "21.1.248",
       "recommendedJavaMajor": 17,
       "pack": {
         "format": "mrpack",
         "path": "instances/jiwen-chicken-power/pack.mrpack",
-        "sha512": "cad4dc60af2b1e7088f153a334ef78d42906dcc55f5c99c08a8b92eec0b11c27c014e12e8f749a149bbc3114b8b526923a9f3ffad2f716247b4866c95dcf36e4",
-        "sizeBytes": 152470135,
-        "versionId": "1.0.4"
+        "sha512": "479e074b35e0f4bf524ec12e253d80cf2125d14f6e862e3f10fec1578d0f9350b6ebe099cad96dd9efcb6919010c4200a61a77a8cde0185fa3a212a53694a4ae",
+        "sizeBytes": 47944,
+        "versionId": "1.0.6"
       }
     },
     {
