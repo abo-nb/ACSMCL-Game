@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-27T06:41:53Z",
+  "updatedAt": "2026-08-28T10:52:40Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -22,18 +22,714 @@
     {
       "id": "hkx",
       "name": "航空学",
-      "summary": "",
+      "summary": "正式版 1.21.1, NeoForge 21.1.248",
       "mcVersion": "1.21.1",
       "loaderType": "neoforge",
       "loaderVersion": "21.1.248",
       "recommendedJavaMajor": 21,
       "pack": {
-        "format": "mrpack",
-        "path": "instances/hkx/pack.mrpack",
-        "sha512": "479e074b35e0f4bf524ec12e253d80cf2125d14f6e862e3f10fec1578d0f9350b6ebe099cad96dd9efcb6919010c4200a61a77a8cde0185fa3a212a53694a4ae",
-        "sizeBytes": 47944,
-        "versionId": "1.0.0"
-      }
+        "format": "manifest-v2",
+        "sha512": "35dfb18da274b0355d4eaeddd059bfbad094b7cd2265f9e94e9bf92b01ad0b35b3175d60802ef041a6ed1a4c7db61016829bbf2bb3676bdc05c4d85930f3c74f",
+        "versionId": "1.0.1"
+      },
+      "files": [
+        {
+          "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+          "sha512": "33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2feb167923d6d14d1fc7e8ee1a977ec421b19d1951bdca74c4092b9c5",
+          "sha1": null,
+          "size": 2540723,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8242/804/iris-neoforge-1.8.14-beta.1%2bmc1.21.1.jar",
+            "https://edge.forgecdn.net/files/8242/804/iris-neoforge-1.8.14-beta.1%2bmc1.21.1.jar",
+            "https://cdn.modrinth.com/data/YL57xq9U/versions/KduFYu4t/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar"
+          ]
+        },
+        {
+          "path": "mods/kotlinforforge-5.12.0-all.jar",
+          "sha512": "b8c3942f4d33179edf3f102f3d870b99dd436f8b8236dbbd31aa51b888162c692cfd88927295f24dc8b4375232f4c6c17360c5d6c4823f93cbcd7cf4bdc8bd14",
+          "sha1": null,
+          "size": 7279264,
+          "source": "cdn",
+          "downloads": [
+            "https://cdn.modrinth.com/data/ordsPcFz/versions/uhJhCT7X/kotlinforforge-5.12.0-all.jar"
+          ]
+        },
+        {
+          "path": "mods/libIPN-neoforge-1.21.1-6.6.3.jar",
+          "sha512": "89383465eb8dfa296e7518dd0e6ddc1a242f4537a3183425f2319c79a3e97843ded0f5e13f86b095f2f09beacd2a1f249f554e0f4e18291209720826031a8b93",
+          "sha1": null,
+          "size": 626146,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7810/552/libIPN-neoforge-1.21.1-6.6.3.jar",
+            "https://edge.forgecdn.net/files/7810/552/libIPN-neoforge-1.21.1-6.6.3.jar",
+            "https://cdn.modrinth.com/data/onSQdWhM/versions/BGe4KMlE/libIPN-neoforge-1.21.1-6.6.3.jar"
+          ]
+        },
+        {
+          "path": "mods/sable-neoforge-1.21.1-2.0.5.jar",
+          "sha512": "bf3d8c87bcc5efb99afffd50305fc978086ed48a63e106816e3a8a3901f8052f4480ea527dbd7d4003f7775ed4d020529098034f4e307aefac9cc42df2b4c19a",
+          "sha1": null,
+          "size": 12986136,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8673/825/sable-neoforge-1.21.1-2.0.5.jar",
+            "https://edge.forgecdn.net/files/8673/825/sable-neoforge-1.21.1-2.0.5.jar",
+            "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar"
+          ]
+        },
+        {
+          "path": "mods/[JEI物品管理器] jei-1.21.1-neoforge-19.44.0.401.jar",
+          "sha512": "d52ec5a54ec4f1df6addf6b1f4ce660770c003d6ea45b3f330879d984d33600050e7390e0aa025b067898771ae969d79ef3c7fcd907751317fd170091b453173",
+          "sha1": null,
+          "size": 1697362,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8622/758/jei-1.21.1-neoforge-19.44.0.401.jar",
+            "https://edge.forgecdn.net/files/8622/758/jei-1.21.1-neoforge-19.44.0.401.jar",
+            "https://cdn.modrinth.com/data/u6dRKJwZ/versions/Tbomhybz/jei-1.21.1-neoforge-19.44.0.401.jar"
+          ]
+        },
+        {
+          "path": "mods/[Xaero的小地图] xaerominimap-neoforge-1.21.1-26.4.2.jar",
+          "sha512": "7ece42b6665cb3a83d77bca1ae9ab31e9f418a7e0ee73f4be1839b62a8dde7e2727d554b6ed056ca4e7510c1aaa6603e5caaa62355bca9ff202171df73ac49ee",
+          "sha1": null,
+          "size": 2185409,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8449/819/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+            "https://edge.forgecdn.net/files/8449/819/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+            "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar"
+          ]
+        },
+        {
+          "path": "mods/[一键背包整理Next] InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+          "sha512": "521296cc7e4fa48e06eb0c00d430968c7b879946db5b02e632cc724672759ac152e11bd9d320bd09f7418edd6fe4ece521a1a2cac49d7f5687519c69a0bcbf12",
+          "sha1": null,
+          "size": 1295466,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7810/574/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+            "https://edge.forgecdn.net/files/7810/574/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
+            "https://cdn.modrinth.com/data/O7RBXm3n/versions/vjuNnHLv/InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar"
+          ]
+        },
+        {
+          "path": "mods/[创世神] worldedit-mod-7.3.8.jar",
+          "sha512": "e039492df0b486e7ce76d0eaf8cb11eadad2e78220600b8498ab8eef4642a29e310a6bcb4378257553b3639c6d0bc1ebf0f73df3a7a677c6af6baf86716b0bc7",
+          "sha1": null,
+          "size": 6222854,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
+            "https://edge.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
+            "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar"
+          ]
+        },
+        {
+          "path": "mods/[忄夬扌疌木兰] HorBaaaar-0.2.0.jar",
+          "sha512": "c7bfb9f105eeb1ee94712a496006b679d7056a95f2b7109c5e2558b577850dafa454aa80b0b706c0e592ce3411c342f84c0e8fbb2e658e572de2948fc74e173f",
+          "sha1": null,
+          "size": 17179,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/5734/403/HorBaaaar-0.2.0.jar",
+            "https://edge.forgecdn.net/files/5734/403/HorBaaaar-0.2.0.jar",
+            "https://cdn.modrinth.com/data/3Fg1pSC5/versions/AuK1RRdk/HorBaaaar-0.2.0.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力] create-1.21.1-6.0.10.jar",
+          "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b",
+          "sha1": null,
+          "size": 19123767,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+            "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar",
+            "https://cdn.modrinth.com/data/LNytGWDc/versions/UjX6dr61/create-1.21.1-6.0.10.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力：动力加载器] create_power_loader-2.0.5-mc1.21.1.jar",
+          "sha512": "e4f06cfe79eafa538a2edf45d0b173051475f2a20d6c2352668f6980f4433078f2cdd8ffdd047984c30dfd903142ea37eadde48ff71a3892f18154662f20eb57",
+          "sha1": null,
+          "size": 442369,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8126/570/create_power_loader-2.0.5-mc1.21.1.jar",
+            "https://edge.forgecdn.net/files/8126/570/create_power_loader-2.0.5-mc1.21.1.jar",
+            "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力：航空学] create-aeronautics-bundled-1.21.1-1.3.1.jar",
+          "sha512": "16ba7a2c8335443bdf6ad4777737b762f09452be2dd364f801fd20b35eb581473161763699ec37eb12d1aeaf8c18cf8299b2152e24334eedcc9fe662af5bbb27",
+          "sha1": null,
+          "size": 33121810,
+          "source": "cdn",
+          "downloads": [
+            "https://cdn.modrinth.com/data/oWaK0Q19/versions/Vzp221Un/create-aeronautics-bundled-1.21.1-1.3.1.jar"
+          ]
+        },
+        {
+          "path": "mods/[苹果皮] appleskin-neoforge-mc1.21-3.0.9.jar",
+          "sha512": "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937",
+          "sha1": null,
+          "size": 75804,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+            "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
+            "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+          ]
+        },
+        {
+          "path": "mods/[输入法冲突修复] IMBlocker-5.5.4-neoforge+1.20.6-1.21.8.jar",
+          "sha512": "db3d5aa66c2037645db83dac512476edb48d02e2c6ee9f30ce17265c817ff297154f8f65b0076620b83d0bfd7d398c0409d9e37e9f8fdad0707cf16bfa485f50",
+          "sha1": null,
+          "size": 196761,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8167/852/IMBlocker-5.5.4-neoforge%2b1.20.6-1.21.8.jar",
+            "https://edge.forgecdn.net/files/8167/852/IMBlocker-5.5.4-neoforge%2b1.20.6-1.21.8.jar",
+            "https://cdn.modrinth.com/data/WMDesFsZ/versions/gom4UX66/IMBlocker-5.5.4-neoforge%2B1.20.6-1.21.8.jar"
+          ]
+        },
+        {
+          "path": "mods/[钠] sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar",
+          "sha512": "6e9273862fb3397b5abea7ad37a65c3cd6d6bcb5cc06634d2b62b49999c00dac8972e4600e1d5b3c3936d0a92ccfad8ed4d04ed065595797d3c1e559f20aa08c",
+          "sha1": null,
+          "size": 1292887,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8591/792/sodium-neoforge-0.8.13-beta.2%2bmc1.21.1.jar",
+            "https://edge.forgecdn.net/files/8591/792/sodium-neoforge-0.8.13-beta.2%2bmc1.21.1.jar",
+            "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2%2Bmc1.21.1.jar"
+          ]
+        },
+        {
+          "path": "shaderpacks/rethinking-voxels_r0.1-beta9.zip",
+          "sha512": "1e32f41e67e527c3c60149677a05b61c6d305e440812e29abba745b8ed304954780ca48d58b834c49835790bc3c4d38f37c893c5cbdfea9edc07b72e1dabd296",
+          "sha1": null,
+          "size": 8301317,
+          "source": "cdn",
+          "downloads": [
+            "https://cdn.modrinth.com/data/kmwfVOoi/versions/cpD4esk9/rethinking-voxels_r0.1-beta9.zip"
+          ]
+        },
+        {
+          "path": "mods/[精妙核心] sophisticatedcore-1.21.1-1.4.90.2299.jar",
+          "sha512": "ae290556a13924797b5c8bb550e8d446977049f2909e00d2a38fee5cb039465c0db483d365f2b7c67cd6944aabcf4dae71a6d8f31ed039a167a6d7bff006ead5",
+          "sha1": null,
+          "size": 1687195,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8705/83/sophisticatedcore-1.21.1-1.4.90.2299.jar",
+            "https://edge.forgecdn.net/files/8705/83/sophisticatedcore-1.21.1-1.4.90.2299.jar"
+          ]
+        },
+        {
+          "path": "mods/[精妙背包] sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+          "sha512": "0d83c4988999264b4e7d1c96aa94c29875ae3a9efb0e8b6c8e34a19771298c2a026d177d97a835cfb1b44c155e7a86ccfa977efd2e9fa4899c22c74e88fff2f6",
+          "sha1": null,
+          "size": 1172245,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8687/841/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
+            "https://edge.forgecdn.net/files/8687/841/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
+          ]
+        },
+        {
+          "path": "config/aeronautics-server.toml",
+          "sha512": "082bb39bdbbd93fa92a95fccee96d2bd7418871d75d77f1d57f49a4c9256614cd566d72cfe0f39741ac663ed0034f406267f5ae33824e89dba529e21fc1ebf80",
+          "sha1": null,
+          "size": 3066,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/appleskin-client.toml",
+          "sha512": "b9536fa807019d5395ee1ae5e97c9fa6b7d2e573508a87381873b0b46e8fc199a71787831b4a8ec64a2fed370514f4dc0d4a9f7033f39bd5f0fba324cbed94d9",
+          "sha1": null,
+          "size": 1376,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/create-client.toml",
+          "sha512": "ced98482f870dd1badef392df9d0f20b3afd6bc7bffd6afa0b65b32eeb85e92361f39f326709789a9b1d1a146f3e00cb20aa6c170f1086e8f98cd9cd977df8f4",
+          "sha1": null,
+          "size": 4795,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/create-common.toml",
+          "sha512": "7e2aeb6c5ed8bb0db13e8a6aa638bf34ba945f0352691ce4c748ea9721deb3031eda49aae7a3d4b518fddc63dcd6da94a4df369dd4427cc115f440351c653b14",
+          "sha1": null,
+          "size": 153,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/create-server.toml",
+          "sha512": "1dd1fae38999bdf978de461268fd821df767cfe0eea4616a20972627f556f8aceb563fbcbb90d371eb74eb7f60613d649114bc6c759f6484b8a3b3c683fe69d4",
+          "sha1": null,
+          "size": 16890,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/create_power_loader-server.toml",
+          "sha512": "79b7b9e529e9e4bbbb34bc91a236ce4d83475b49ee805981c3de0e331c5224f9304d7d6280c8c4e9b35d130f62f9e6dba763ede73d34e79e14060a7cf110b1fd",
+          "sha1": null,
+          "size": 3107,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/flywheel-client.toml",
+          "sha512": "f05026e7f99ae41a6de20a396a7045f03401796592a94b65c9b6d8ace65c67417eed08f708d5f8cb12aedd52d0ede0f013d9ba2949534696f0ff22fe645d0510",
+          "sha1": null,
+          "size": 637,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/fml.toml",
+          "sha512": "872f51529c0a75ebfb9f9163bccbf4171c0177f1b21de6c987ab11d9edbb2def2c727ed625c558689d5bcbe68ac1e69460969d3bc3686a33845a4486811f342b",
+          "sha1": null,
+          "size": 1550,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/iris-excluded.json",
+          "sha512": "a18eb1b4aa4664969acdbc278fecdb547b072445cfccc7524455d40a20c46fee7f34d9dc58dedf8cb238cd4c120a56cb821b9117ad1a51a53a416b587d9fb348",
+          "sha1": null,
+          "size": 31,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/iris.properties",
+          "sha512": "98198d4e5387f26cf93bbe71bdfb6c2097d00c76290be157b58e639fdcbe1466f40e4c4f836671258fa8edcdaa2707350caefbbf9a96e98e6e87644e1436c1e5",
+          "sha1": null,
+          "size": 314,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei-server.toml",
+          "sha512": "8454b0a94057c77986a5e50c853026db3e4ae8e6519b79b8c40aba940c849dea489eb4fd88670f842e3ea74b59c46bf7968c4662220145dd35e3814017c83826",
+          "sha1": null,
+          "size": 324,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/neoforge-client.toml",
+          "sha512": "3b2cddc1c8a2b7b8dd29a716d58b998dbd028ddcad35275eeac0a7100540dab4170975d0b420af2e3152cff5b509977fee15eca1decdff2e899c287963efff51",
+          "sha1": null,
+          "size": 578,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/neoforge-common.toml",
+          "sha512": "2f20bd2e5c2aaabe29d9d0d0ada162f91138faaa2a3f5da75023aff16a4fda63af8bc2f7a093cfd6bdc31873a6de8f33a9534f9f8fa31d8c05dc67a89541c7d3",
+          "sha1": null,
+          "size": 772,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/neoforge-server.toml",
+          "sha512": "164c8ef51cb19ef4e8421378fa20d56a803b07b2cfb8d5d36b44e32c17bb4bc097ceaee1c2e363bcd8059e2fe710fca2bf3d14500879aaa35c4f98e0fc3ff2e5",
+          "sha1": null,
+          "size": 1177,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/offroad-server.toml",
+          "sha512": "172592d0b6f370ca47c22e044d1108be7d5a63a2215134e2111ffc527d8da1e161b2f0f61d95025c1c2c4167fed44cd4e60c009377fc7a01e878a577e8f5da14",
+          "sha1": null,
+          "size": 1167,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/ponder-client.toml",
+          "sha512": "b4ddb4e184d57860197d94e3747f79e4d1569f86fc4c149d578f6281bf62732f062d247385f234efd719f9f3b89e53837800eb53ddb8bc2b25ce173f18ab0292",
+          "sha1": null,
+          "size": 635,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sable-client-1.toml.bak",
+          "sha512": "fd587eca1159d32658e6328f57900e4e9f3400025070e181ddddcb4bb4cdcf404801e74b5fdb826d3145c34be37740a34eec1c5e82390add21f3bdd672aec365",
+          "sha1": null,
+          "size": 924,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sable-client.toml",
+          "sha512": "604450ccf58548f3bdae86559e4684cc55fee5576cf99323e8e6b52a670b93afffd29c0b31f1af3a85fea68fab1e0123d64d75f401f838c31c4252ee19c6c703",
+          "sha1": null,
+          "size": 946,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sable-common.toml",
+          "sha512": "379042c58a08a339eba3b7900fa70e202bbe89b230949b7121168c74ca8c93541d602bd3b90b6dd630513340fe9999547e5d0bc03ffbf35f04888b24761e0bf0",
+          "sha1": null,
+          "size": 2243,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sable-server.toml",
+          "sha512": "4cc01365ee8a34b0d61db5be34078d5b2ff0606cbc1f381eb318a9d4b26828be41980d3d56365cbc17c7afcbf3f4483ac9f4f1f6c0a426bb35c0eb4a85f16a46",
+          "sha1": null,
+          "size": 328,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/simulated-client.toml",
+          "sha512": "fe06e965f597e8f5cecc6ba973b5c6c5dc0b2b3be7a345dadaa53caa402729ed614df6a5daf6a78625ebff932cbbea4ae6ad9e7dd247d7ca240e0ee1dbe9be02",
+          "sha1": null,
+          "size": 1045,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/simulated-server.toml",
+          "sha512": "21c6feb4634838d928ddd5c2606004bbd750f6b216c510931ec292da811d5597a0c247e7b7d66e14df04623d2d50e0b3dfcee6d5601762db9fc5fb38c10b2d7e",
+          "sha1": null,
+          "size": 7249,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sodium-fingerprint.json",
+          "sha512": "b27f4543b059edeb46321071dc3f790eaafbae9ae951ce2eb766fb200f6f2491fe2d8acf1d54c9683b99701f70531a24f36668a45cf906fb9cf6b93a28d5d73a",
+          "sha1": null,
+          "size": 427,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sodium-mixins.properties",
+          "sha512": "6acd2f3e4956788d0abd2bd941c5bcb3003b63c58eeedb3db727e5abfd37f036e49e7b97310bd37b9d3c29e2adbcbb3e5109af0482842f704a64a409a59bb437",
+          "sha1": null,
+          "size": 258,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sodium-options.json",
+          "sha512": "c82101b2f926a50e4609f67f0e68267d03ec54497338e4951c374b23d99f389acbc4827dd0ae9fe661022a49d6337300fe1f1077b11d73990e487b04135ab61a",
+          "sha1": null,
+          "size": 762,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sophisticatedbackpacks-common.toml",
+          "sha512": "4bda96a33735b62706fd7b7e785cc0dcac04670c9047f7079a05b70e300621899c3c5106da4bbd86de1d74b3ac3eac1a3038200e54d06f1f051ac2e5b07404c6",
+          "sha1": null,
+          "size": 118,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sophisticatedbackpacks-server.toml",
+          "sha512": "87352b3c5e93038c1fe998730a13ae2888ae5f3ba610d049f077a10893853de6822d5681e7a1c9fb78194d2f08566afbbb1e1a4c1bd237baec4338daa4d1d82b",
+          "sha1": null,
+          "size": 24153,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sophisticatedcore-client.toml",
+          "sha512": "76233eb0781280c1556eebb54c4ac51933a35f487bb3fd4dcc4976154e543da114c01ad04890cd82b3e5d00c1bb2dc1f75afef4e3a191e0f252b5e5f2ecfc8d2",
+          "sha1": null,
+          "size": 478,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/sophisticatedcore-common.toml",
+          "sha512": "3018a9c5b823070efe320669015a1af747b0f0586df2597e5805d1ed6bb2487ec33075c901a5d1bd99cfad548f2f62f512e6b039fe3162705f174aebf8f53e0d",
+          "sha1": null,
+          "size": 3945,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaerohud.txt",
+          "sha512": "97f01c7a3fa251db33a77467d4f167d7fd2935a13113e96243c6e331a215f1f9ceb1baacac29876a784f12cbb345e8be58b40a3632513c85375819fe2a21400e",
+          "sha1": null,
+          "size": 123,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaeropatreon.txt",
+          "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e",
+          "sha1": null,
+          "size": 0,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/inventoryprofiles.json",
+          "sha512": "c40f133ae28a848347f101498e7dc84f24c1119e47742948d1754b8801ee3ac84667ef82114d02f56e2f9bff84a2292bf3b292fab0caaa1b77c740fb7a1b8eef",
+          "sha1": null,
+          "size": 134,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/villager-trading-config-v2.json",
+          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
+          "sha1": null,
+          "size": 1177,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/192.168.191.179/prev-villager-trading-config-v2.json",
+          "sha512": "d11cf3688f03a6ea4ddf2303641712a9d1fb3333c48658e6d805ce306dbb0317589a6b2cc33dbb0276afebe5b200700a3b24d7b0f312337a81c2dd97b5147852",
+          "sha1": null,
+          "size": 1312,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/192.168.191.179/villager-trading-config-v2.json",
+          "sha512": "d11cf3688f03a6ea4ddf2303641712a9d1fb3333c48658e6d805ce306dbb0317589a6b2cc33dbb0276afebe5b200700a3b24d7b0f312337a81c2dd97b5147852",
+          "sha1": null,
+          "size": 1312,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
+          "sha512": "31eafa01c3969f48fcb38d988b801f6d30159c02b552b4d3e9acc375d84e5769f4dc589d14cc3c6eb0f3088b4024e1ca2011da002ad6081c823207509a517f40",
+          "sha1": null,
+          "size": 1450,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/[fe80&&88f0&858a&6d6a&a3d9]&25565/villager-trading-config-v2.json",
+          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
+          "sha1": null,
+          "size": 1177,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/新的世界/prev-villager-trading-config-v2.json",
+          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
+          "sha1": null,
+          "size": 1177,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/inventoryprofilesnext/新的世界/villager-trading-config-v2.json",
+          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
+          "sha1": null,
+          "size": 1177,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/blacklist.json",
+          "sha512": "81642eeec041a8913fee828a23ee0a103334b5c749396bc21cf7d8c543305a503a417f5384873ba649a28749065bcfb533c285a7f3c4a8cd4bcb820324c49017",
+          "sha1": null,
+          "size": 19,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/ingredient-list-mod-sort-order.ini",
+          "sha512": "8c453216fb52e39c6ec2ce45bbfa7d3eaa471768a1939b90beff6798f9baf317823bb13f9dde0413658f995f17fc8b3c5329e4c04cd7b82859ab8763ab23342b",
+          "sha1": null,
+          "size": 140,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/ingredient-list-type-sort-order.ini",
+          "sha512": "87a0b3fc8eda025c14f7cfddce38e29c11c5b66ccc16825ee9b3f6b93b1f56648e4a562e70accaed59db5d76d4332458a1c4aab460ee3a4b058ae3035711524c",
+          "sha1": null,
+          "size": 78,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/jei-client.ini",
+          "sha512": "acf1436252465285e8a8b1b4fa3a73376b0268fa1aad5cf359e27a1d52f71311eed0a329712a0f979d8608e08436f4347747f243ff5002bc475b8601f573040c",
+          "sha1": null,
+          "size": 11749,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/jei-colors.ini",
+          "sha512": "c7e610d8debe769920fbd0d22d161aafae61a380da1d63b04ae567df61a5b9b18a2d3d2793dc7f36d9ba79da8245e85e9fa760a9bd23fc158b64d2a9a50142b8",
+          "sha1": null,
+          "size": 1355,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/jei-debug.ini",
+          "sha512": "3ad49806e13e6bc6e07d7726a5e887e28d7f5d770742d264ce86b95cc8b0edef52fd92e5956b6dc8342d36a6f5c14188f3c1edea6999ca6a1ea465d7f20c0872",
+          "sha1": null,
+          "size": 888,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/jei-mod-id-format.ini",
+          "sha512": "9cfdf5a6f536eac5a422e82cd7a19bedb490e7c92aa5d8177b41ef890f844f393e3ed297b8b52eb30f924b65c4fefe7fe6c3322eb98368531313f7006bed4dc3",
+          "sha1": null,
+          "size": 477,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/jei/recipe-category-sort-order.ini",
+          "sha512": "d4979dbfe157a7713aa7c161687bf74f652b3d1d9f0cf5cf8dbe9264284001a99fec3a858477473c61347adb4c0ce1cde262199b1417f2a5c7e7aadeec2b22d5",
+          "sha1": null,
+          "size": 762,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/worldedit/worldedit.properties",
+          "sha512": "5312b958fdd299d5e88d21b9727dff88d5f3b3cfe8ecacdad4aaa64619c7961a4cd3710f94af6da505c6f4a491ab18d6e32c2cd69114907c1addaab0f7948005",
+          "sha1": null,
+          "size": 2546,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/lib/client.cfg",
+          "sha512": "bdb681aeb61766238952ad062700f811d267c0f2aeac94e7cf356de36d91f19ea3e2c41dcaa5b2930479f9275bb5862e4ca47442286def6e3c9618c9ba932037",
+          "sha1": null,
+          "size": 26,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/lib/common.cfg",
+          "sha512": "164710fd669d75d25273e70531d9aba5f17ce68d063d9f060f58aac056f4f755c9466e294aceaa29d344fc1d88c1dffa021743f6c7a6a253a90f86dc2f48e331",
+          "sha1": null,
+          "size": 236,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/lib/profiles/default.cfg",
+          "sha512": "02399da7ff280b84cbb078538e4e85e00c785cea8c2beb50457eb6ebabb91634ab131cc1bbd30692c286eee0467d27856cd2cac0c9c18d799bf19171d1d0a3fa",
+          "sha1": null,
+          "size": 121,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/lib/server_profiles/default.cfg",
+          "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
+          "sha1": null,
+          "size": 75,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/client.cfg",
+          "sha512": "45526f5d47396565801fa90b788c0818ce9fd390533b9a96331c0a2750554809adc7d33b89c657f3a68428228804495c3715ad97aa86d9756c46cde1b949f330",
+          "sha1": null,
+          "size": 235,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/common.cfg",
+          "sha512": "dba4271d6bed5a92406cf111ae3e209a57f05bfbc161e4016bfef72c915c69466e0c027f7c65e400b47c2cf037f1d0874ca0e85a20ee8dc1a0b182d2c5016682",
+          "sha1": null,
+          "size": 147,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/default_radar_categories_client.json",
+          "sha512": "edbf2ade16766873f7c9e00a3727cdc1a17cd08dc29b40b6b8dac208190ea6942ef0dac356684e5dee5ec3cf229a8d8931d60dc0c2d180a7295f895f8a8c8c81",
+          "sha1": null,
+          "size": 5531,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/default_radar_categories_server.json",
+          "sha512": "3cc68ebc3b061d9475f2798d6589aa07c943bcee8e4eedc07647f2062392b55135b0726110f25676722f7fce12b8a655bea14b8eedf0eaa4c14b07176f69f9ab",
+          "sha1": null,
+          "size": 4597,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/profiles/default.cfg",
+          "sha512": "756501db46beff266f5530094922faf25fe91a7a8835265e04411c75a1284ba8153ef05a0eb59b9b9a64b5258bbd88de4804b2c376747ccf0f6df52fbf8814e9",
+          "sha1": null,
+          "size": 3825,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
+          "sha512": "24333ae933428753dfa60922bb114a91941b61f1a213a83ce05c795c8f2482d18faf4b965169d796a13fa29d790532b46fdbcae25652c05e88123fa57be8d991",
+          "sha1": null,
+          "size": 684,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "config/xaero/minimap/server_profiles/default.cfg",
+          "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
+          "sha1": null,
+          "size": 75,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "PCL/config.json",
+          "sha512": "0e2dad52687f4b7af7f15f1c9c9b23b0a2745fc01b5c0caafe3ba925f9a30abe264f116eac5f5b207b7f38ed680a098bee1f6b195dd1ae0c64d844505cc8f1b5",
+          "sha1": null,
+          "size": 36,
+          "source": "repo",
+          "downloads": null
+        },
+        {
+          "path": "PCL/Setup.ini",
+          "sha512": "610dd770f5a0b4fe43a7b6c1ffa59af7290150a7e692e9a806741c04ab04a582872ef42b53819e538cc447a6f7cb38c3def73991bdeef9208f05e7a8ee66137f",
+          "sha1": null,
+          "size": 314,
+          "source": "repo",
+          "downloads": null
+        }
+      ]
     },
     {
       "id": "hellonewsc",
