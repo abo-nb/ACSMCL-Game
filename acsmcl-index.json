@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-30T14:03:44Z",
+  "updatedAt": "2026-08-30T14:19:21Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,10 +725,22 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "bdc5852efe766801aa9c0f6856497f77b843d0815dc8a1c64ed2a59093aab4ede4b4996c1503d3117c35dd3e5d10a79c24e464ab506a9420f221739d3cdbaaea",
-        "versionId": "1.0.3"
+        "sha512": "d99cfe78a10537f8897eb3528b04a80ccdac2602a376eeabd272387ca532c3ca9df1c58faa8e7cfc61ce82a92b7f3eca21dc1c572219ff914d31340aa2cd36d6",
+        "versionId": "1.0.4"
       },
       "files": [
+        {
+          "path": "mods/cloth-config-15.0.140-neoforge.jar",
+          "sha512": "aaf9b010955b8cd294e5a92f069985b18729fd5e2cf22d351f1dff9680f15488688803ec41e77e941cbde130ceb535014ca4c868047d80ab69c2d508e216654d",
+          "sha1": null,
+          "size": 1163890,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+            "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
+            "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+          ]
+        },
         {
           "path": "mods/iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
           "sha512": "33fddb430e16222902eac75b8b3d57c381b0f3cc729f3b56c4628df12ca108f23a0b11e2feb167923d6d14d1fc7e8ee1a977ec421b19d1951bdca74c4092b9c5",
@@ -833,6 +845,18 @@
             "https://mediafilez.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
             "https://edge.forgecdn.net/files/5830/452/worldedit-mod-7.3.8.jar",
             "https://cdn.modrinth.com/data/1u6JkXh5/versions/WTAFvuRx/worldedit-mod-7.3.8.jar"
+          ]
+        },
+        {
+          "path": "mods/[帕秋莉手册] Patchouli-1.21.1-93-NEOFORGE.jar",
+          "sha512": "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f",
+          "sha1": null,
+          "size": 646777,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
+            "https://edge.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar",
+            "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
           ]
         },
         {
@@ -975,6 +999,18 @@
             "https://mediafilez.forgecdn.net/files/8591/792/sodium-neoforge-0.8.13-beta.2%2bmc1.21.1.jar",
             "https://edge.forgecdn.net/files/8591/792/sodium-neoforge-0.8.13-beta.2%2bmc1.21.1.jar",
             "https://cdn.modrinth.com/data/AANobbMI/versions/jfHZ5pyN/sodium-neoforge-0.8.13-beta.2%2Bmc1.21.1.jar"
+          ]
+        },
+        {
+          "path": "mods/[预制建筑] prefab-neoforge-1.0.9.jar",
+          "sha512": "f395c56c2c5ebb2b2852570a49e4d0a2a356e0797c69c2cb24e510be9587e06edb5bc978e8e59541e02a5dd5cf5143c9820949133fa4908645233194224f66cf",
+          "sha1": null,
+          "size": 9191338,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8371/870/prefab-neoforge-1.0.9.jar",
+            "https://edge.forgecdn.net/files/8371/870/prefab-neoforge-1.0.9.jar",
+            "https://cdn.modrinth.com/data/pTJ1ZloG/versions/1SASoUIC/prefab-neoforge-1.0.9.jar"
           ]
         },
         {
