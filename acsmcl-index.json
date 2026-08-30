@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-28T11:21:02Z",
+  "updatedAt": "2026-08-30T14:03:44Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,8 +725,8 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "064acc48e99959cfeb8a21f1baaa7c1d16abec3eb669b3ed0d932fda00e799157e086cc437e422ec1387fcf68b935cbdef901cb7dc7cf23d5e2ef695a1c04c58",
-        "versionId": "1.0.2"
+        "sha512": "bdc5852efe766801aa9c0f6856497f77b843d0815dc8a1c64ed2a59093aab4ede4b4996c1503d3117c35dd3e5d10a79c24e464ab506a9420f221739d3cdbaaea",
+        "versionId": "1.0.3"
       },
       "files": [
         {
@@ -761,6 +761,18 @@
             "https://mediafilez.forgecdn.net/files/7810/552/libIPN-neoforge-1.21.1-6.6.3.jar",
             "https://edge.forgecdn.net/files/7810/552/libIPN-neoforge-1.21.1-6.6.3.jar",
             "https://cdn.modrinth.com/data/onSQdWhM/versions/BGe4KMlE/libIPN-neoforge-1.21.1-6.6.3.jar"
+          ]
+        },
+        {
+          "path": "mods/mechanicals-1.21.1-1.1.6.jar",
+          "sha512": "84bfcd2cbd061eb1516fc2adbca0e599a38372b80ef9f5713de70be48d072243b1c5cb84c13177c35f333b6bcf16aa1f70dbd0964ed18e14c2bff733c531c6bc",
+          "sha1": null,
+          "size": 2022181,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8418/818/mechanicals-1.21.1-1.1.6.jar",
+            "https://edge.forgecdn.net/files/8418/818/mechanicals-1.21.1-1.1.6.jar",
+            "https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar"
           ]
         },
         {
@@ -848,6 +860,30 @@
           ]
         },
         {
+          "path": "mods/[机械动力：伪装方块+] copycats-3.0.8+mc.1.21.1-neoforge.jar",
+          "sha512": "85edd42d46ba2c331212584d1009bf2c7bd21782c89d2a1d994dbdd170a6812e20fee6aa51faf0aa9357bd75e973b692b460c30680093f8fc2c097c52dc60b08",
+          "sha1": null,
+          "size": 1799269,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8714/287/copycats-3.0.8%2bmc.1.21.1-neoforge.jar",
+            "https://edge.forgecdn.net/files/8714/287/copycats-3.0.8%2bmc.1.21.1-neoforge.jar",
+            "https://cdn.modrinth.com/data/UT2M39wf/versions/ZwGlMBIk/copycats-3.0.8%2Bmc.1.21.1-neoforge.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力：创意传动] create_connected-1.3.2-mc1.21.1.jar",
+          "sha512": "b07bfbc5ebf0ad63b1db5f7215f0e11490f0263623e344b09a63116d84199a49c7f916610410262ddb640e60017d08e89f3363ada38a6219ac6a5b2fc19322e0",
+          "sha1": null,
+          "size": 6779410,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8299/240/create_connected-1.3.2-mc1.21.1.jar",
+            "https://edge.forgecdn.net/files/8299/240/create_connected-1.3.2-mc1.21.1.jar",
+            "https://cdn.modrinth.com/data/Vg5TIO6d/versions/klOWKza5/create_connected-1.3.2-mc1.21.1.jar"
+          ]
+        },
+        {
           "path": "mods/[机械动力：动力加载器] create_power_loader-2.0.5-mc1.21.1.jar",
           "sha512": "e4f06cfe79eafa538a2edf45d0b173051475f2a20d6c2352668f6980f4433078f2cdd8ffdd047984c30dfd903142ea37eadde48ff71a3892f18154662f20eb57",
           "sha1": null,
@@ -857,6 +893,18 @@
             "https://mediafilez.forgecdn.net/files/8126/570/create_power_loader-2.0.5-mc1.21.1.jar",
             "https://edge.forgecdn.net/files/8126/570/create_power_loader-2.0.5-mc1.21.1.jar",
             "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力：筛子] createsifter-1.21.1-2.3.0.jar",
+          "sha512": "45dc85de21ae015e9dbaa151972e7ee114e2135b667e58a33bde5ce48821b0bb03965b79fb4a9ca1a494ac6f16f45a0a47031b4c1a44d86eb1250e73fb290e77",
+          "sha1": null,
+          "size": 709755,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8418/559/createsifter-1.21.1-2.3.0.jar",
+            "https://edge.forgecdn.net/files/8418/559/createsifter-1.21.1-2.3.0.jar",
+            "https://cdn.modrinth.com/data/r018adCw/versions/Z5bTlA6P/createsifter-1.21.1-2.3.0.jar"
           ]
         },
         {
@@ -879,6 +927,30 @@
             "https://mediafilez.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
             "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar",
             "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+          ]
+        },
+        {
+          "path": "mods/[车万女仆] touhoulittlemaid-1.5.3-neoforge+mc1.21.1.jar",
+          "sha512": "147bc10f5cc7159ee16c4918795155b3e52cf6bab5e09f588ed3fec14f8b47bbc512948bb8fef30346a47feba2692b6dbe20781c6cc1dc1d2c6b9377a9649bbe",
+          "sha1": null,
+          "size": 24408776,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8061/852/touhoulittlemaid-1.5.3-neoforge%2bmc1.21.1.jar",
+            "https://edge.forgecdn.net/files/8061/852/touhoulittlemaid-1.5.3-neoforge%2bmc1.21.1.jar",
+            "https://cdn.modrinth.com/data/R0bDWFAW/versions/tXG1TkGx/touhoulittlemaid-1.5.3-neoforge%2Bmc1.21.1.jar"
+          ]
+        },
+        {
+          "path": "mods/[车万女仆附属：爱恋] touhou-maid-affection-1.7.2.2.jar",
+          "sha512": "3f62c4e00ee349f188003e0b0e9cbf5aa8c1796bac183af1cd26a555f7b5876f936f714334317b4c849cd1adb1987164945c93c74f61df3b05465b0a72317ad6",
+          "sha1": null,
+          "size": 680484,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8034/35/touhou-maid-affection-1.7.2.2.jar",
+            "https://edge.forgecdn.net/files/8034/35/touhou-maid-affection-1.7.2.2.jar",
+            "https://cdn.modrinth.com/data/u2V1XW0t/versions/ib1EhqZY/touhou-maid-affection-1.7.2.2.jar"
           ]
         },
         {
@@ -916,6 +988,17 @@
           ]
         },
         {
+          "path": "mods/[建筑棒] ConstructionSticks-1.21.1-1.5.0.jar",
+          "sha512": "ec65fa4af14f64155e12950a5d857991235c9ab0b684658a0f805d1d5c3cfc1aac9de4c46a55598ffb108ee5eb9237468c5db905abb78b658636aa9cd4bb60f7",
+          "sha1": null,
+          "size": 264738,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8763/707/ConstructionSticks-1.21.1-1.5.0.jar",
+            "https://edge.forgecdn.net/files/8763/707/ConstructionSticks-1.21.1-1.5.0.jar"
+          ]
+        },
+        {
           "path": "mods/[精妙核心] sophisticatedcore-1.21.1-1.4.90.2299.jar",
           "sha512": "ae290556a13924797b5c8bb550e8d446977049f2909e00d2a38fee5cb039465c0db483d365f2b7c67cd6944aabcf4dae71a6d8f31ed039a167a6d7bff006ead5",
           "sha1": null,
@@ -936,478 +1019,6 @@
             "https://mediafilez.forgecdn.net/files/8687/841/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar",
             "https://edge.forgecdn.net/files/8687/841/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
           ]
-        },
-        {
-          "path": "config/aeronautics-server.toml",
-          "sha512": "a678c57bd39832ac1be13125412f2eb0152e844d16cc72cf671a11a437d1c1bfa89b07222f704118c5d6c483fd4d4f634813cfe21984c889eb6728ca178cec74",
-          "sha1": null,
-          "size": 2958,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/appleskin-client.toml",
-          "sha512": "3573fc15d9c7a7d96c9816206ec7a909bbfe0bbac1c7eec2f314f4ee73a3838abfeded4aa60b0fc831cdcbbff12b986f7d6378dd0ef8458e56aec09b61a655c9",
-          "sha1": null,
-          "size": 1353,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/create-client.toml",
-          "sha512": "88794d5d0aa4b2d5a51723f1890562adaaadbbe2555dfde60cff68d876642bd91b86b9d99d7fc54a51ca1ccbfdb5d53c160cb7236a446772cc0eee9f6fdf3d97",
-          "sha1": null,
-          "size": 4648,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/create-common.toml",
-          "sha512": "6b71130d0956a032d215d578c467db41c41cae4694528723e3ac404e71b41807a8f49f460a653ec72889c56d9891ff2a8d14abf1276530e8e2e589b0521d09db",
-          "sha1": null,
-          "size": 146,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/create-server.toml",
-          "sha512": "dda9e91437303e6ab41be0782f514e10ee1f6cb503563ddaac2f4157f69a8b1960f9faa4b5db508d562fccc78f79e522996f026404285315318553cc0988cfe5",
-          "sha1": null,
-          "size": 16286,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/create_power_loader-server.toml",
-          "sha512": "4882bb4f706b812f4eaf8d4430a6039b93ae215876709a2ef149a844690628e85b645cfde7840b80f9f8cece42855795da3adfa53ac228a31a8d83108ead36ef",
-          "sha1": null,
-          "size": 3004,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/flywheel-client.toml",
-          "sha512": "a5c7248b60ea8821c3223f024dca8bb55defc2e95563cfb58919a3d2d56bb905bf4f841a2cf62911d0e944bdc50ed2aa0e8d6dad46e3c8f57025db23dd82ed39",
-          "sha1": null,
-          "size": 623,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/fml.toml",
-          "sha512": "559d85e5e012db5b8bfa6cb1d6d8be13ae3cc9a7e1f760471b1edc8381f186bd43bc42f6aca2fac0014e050ca76dc770a7c11fd97bba97faaa72d0e54ad53fec",
-          "sha1": null,
-          "size": 1518,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/iris-excluded.json",
-          "sha512": "a18eb1b4aa4664969acdbc278fecdb547b072445cfccc7524455d40a20c46fee7f34d9dc58dedf8cb238cd4c120a56cb821b9117ad1a51a53a416b587d9fb348",
-          "sha1": null,
-          "size": 31,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/iris.properties",
-          "sha512": "7a7ae9c18550db98688ea31c7a125e98d22756690426cabaa342aef654041764b3175cd91b59dc1e07a1472d318a7008b8fbda2425fafdf5c0f8025e68cb5f48",
-          "sha1": null,
-          "size": 305,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei-server.toml",
-          "sha512": "29e0812e6eefcffc3fb5ecfc7a1afd37a254fc0dc9b850d17b47611ba26481e0344a63e085030862b89a84aecc89300dfd8ba8940086f918679ad9147744830b",
-          "sha1": null,
-          "size": 317,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/neoforge-client.toml",
-          "sha512": "7f1fc104b313b1b6054946e555b5a7fc3f1d7bf645bdd3ef11692854499d5fbd5d0d5f12dbbfeea5b098691f599b8a437284e6ba409fc6941901b2f65289825b",
-          "sha1": null,
-          "size": 570,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/neoforge-common.toml",
-          "sha512": "1468779da1f7da7187cbe86a3c72b5cf233b5dc78eeee752f171b5cb3c48b831a3b1e03bb4717a1d03eb148f38e8d09a19f7a71e0848e3bed18856ee3738c6aa",
-          "sha1": null,
-          "size": 764,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/neoforge-server.toml",
-          "sha512": "9c0df32f0fb76649e3ea5243224ed9812c76ae4c5d71d325f7631a6e392640f139e6ade46f1de8e60e2cf799fdcae00ee43a408b592055b58cd2cd116f255f59",
-          "sha1": null,
-          "size": 1167,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/offroad-server.toml",
-          "sha512": "6a618eb6658262d9c72c111146725e3964902288827cd179f3e2c2bdbed4bced3684964935ebaee09dc105bf096946460b20152f4c88a0c21182bee75888d9d2",
-          "sha1": null,
-          "size": 1128,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/ponder-client.toml",
-          "sha512": "f9cebe35437ab8f65c8783ebd973f5fb5f8a054999a754a6c42bda48c920e3861b5146bbb4fda01a88c21deb27d1531dea597420021b398c1f68158d37498809",
-          "sha1": null,
-          "size": 615,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sable-client-1.toml.bak",
-          "sha512": "fd587eca1159d32658e6328f57900e4e9f3400025070e181ddddcb4bb4cdcf404801e74b5fdb826d3145c34be37740a34eec1c5e82390add21f3bdd672aec365",
-          "sha1": null,
-          "size": 924,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sable-client.toml",
-          "sha512": "5b093c666ba6efbee26c07967302bc2ea4ced4e61966adaac9559b9d218cef9c0c9f6c4d2a4a63bf4cc25ffb4b8417def1401c9ce846efe7b2e2a6c653cc0f2e",
-          "sha1": null,
-          "size": 925,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sable-common.toml",
-          "sha512": "addf629b8d959b4eebb115eae0b0c4d7057fc78ad4f24cb4dd751b659808f89d6ce394bc911eb6ae47d915d0b398b212036c478c5cd52185bb4fbaedfcc14694",
-          "sha1": null,
-          "size": 2199,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sable-server.toml",
-          "sha512": "e344cae1b8ddd95cc79129694d52711c7cf7a3414500b17582e150bb60eec34bc013eb72d193115017dc917f1c382a8f6703854296797293262f11bcee2e778f",
-          "sha1": null,
-          "size": 322,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/simulated-client.toml",
-          "sha512": "73e55088989e8bfa4469d54c5adb2e3c1206c69d7e3369382c4e187c308aa09b5774dccdd0b2e98b7b9032921f26544d1423095c768b845477a0e99f0ca07ae3",
-          "sha1": null,
-          "size": 1009,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/simulated-server.toml",
-          "sha512": "d16628140f0463d289c07363e67f98d416611de565915f71dc90b4cf35597b0698fae1ddef72b623f192dcbada938ffee1f3d38a582af3af5c79175fe5471fda",
-          "sha1": null,
-          "size": 7015,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sodium-fingerprint.json",
-          "sha512": "b27f4543b059edeb46321071dc3f790eaafbae9ae951ce2eb766fb200f6f2491fe2d8acf1d54c9683b99701f70531a24f36668a45cf906fb9cf6b93a28d5d73a",
-          "sha1": null,
-          "size": 427,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sodium-mixins.properties",
-          "sha512": "6acd2f3e4956788d0abd2bd941c5bcb3003b63c58eeedb3db727e5abfd37f036e49e7b97310bd37b9d3c29e2adbcbb3e5109af0482842f704a64a409a59bb437",
-          "sha1": null,
-          "size": 258,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sodium-options.json",
-          "sha512": "c82101b2f926a50e4609f67f0e68267d03ec54497338e4951c374b23d99f389acbc4827dd0ae9fe661022a49d6337300fe1f1077b11d73990e487b04135ab61a",
-          "sha1": null,
-          "size": 762,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sophisticatedbackpacks-common.toml",
-          "sha512": "4f00aa30998104bc024fae2e65a29ca9a10d30d9a6ac31a4a8c06dc5cc602d9596147d5504c941e7f3db015637fcd29cefd359f2e517e7ed7b66ade17f5183aa",
-          "sha1": null,
-          "size": 114,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sophisticatedbackpacks-server.toml",
-          "sha512": "241723d4b85a8d9dc8fbf418ebe226fa7dbb0f588a1b877daa4ef565705ccd902859a3c42beb5ceccbe59b513e5dcd9e772a5e1dcf67c209ad9e90b10b9c66c3",
-          "sha1": null,
-          "size": 23521,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sophisticatedcore-client.toml",
-          "sha512": "cf3787ce4dd8adda828ce257b7b2a3f928f3c5e8c80cf0b1fe3437e457cd86fbd8aee6c9d9e394e4e0927b9f1b31bc799114a1638caeab1c4912427733119ff5",
-          "sha1": null,
-          "size": 469,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/sophisticatedcore-common.toml",
-          "sha512": "fe2d19b6698c1b253132856e032cddac7ce8799426e06af22776713657ca80012ec77ac32e6eacae032e2348be964b7294a2148933ae5b5b8f18d0c3591fa84b",
-          "sha1": null,
-          "size": 3941,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaerohud.txt",
-          "sha512": "787797824b611ea3cd669c44bfd2180c81b14bb507f8438b190b37736203a3f8015460605f8f210316b2bff49e73e68d733570a5045d80ef98932172d9183727",
-          "sha1": null,
-          "size": 122,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaeropatreon.txt",
-          "sha512": "cf83e1357eefb8bdf1542850d66d8007d620e4050b5715dc83f4a921d36ce9ce47d0d13c5d85f2b0ff8318d2877eec2f63b931bd47417a81a538327af927da3e",
-          "sha1": null,
-          "size": 0,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/inventoryprofiles.json",
-          "sha512": "c40f133ae28a848347f101498e7dc84f24c1119e47742948d1754b8801ee3ac84667ef82114d02f56e2f9bff84a2292bf3b292fab0caaa1b77c740fb7a1b8eef",
-          "sha1": null,
-          "size": 134,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/villager-trading-config-v2.json",
-          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
-          "sha1": null,
-          "size": 1177,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/192.168.191.179/prev-villager-trading-config-v2.json",
-          "sha512": "d11cf3688f03a6ea4ddf2303641712a9d1fb3333c48658e6d805ce306dbb0317589a6b2cc33dbb0276afebe5b200700a3b24d7b0f312337a81c2dd97b5147852",
-          "sha1": null,
-          "size": 1312,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/192.168.191.179/villager-trading-config-v2.json",
-          "sha512": "d11cf3688f03a6ea4ddf2303641712a9d1fb3333c48658e6d805ce306dbb0317589a6b2cc33dbb0276afebe5b200700a3b24d7b0f312337a81c2dd97b5147852",
-          "sha1": null,
-          "size": 1312,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
-          "sha512": "31eafa01c3969f48fcb38d988b801f6d30159c02b552b4d3e9acc375d84e5769f4dc589d14cc3c6eb0f3088b4024e1ca2011da002ad6081c823207509a517f40",
-          "sha1": null,
-          "size": 1450,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/[fe80&&88f0&858a&6d6a&a3d9]&25565/villager-trading-config-v2.json",
-          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
-          "sha1": null,
-          "size": 1177,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/新的世界/prev-villager-trading-config-v2.json",
-          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
-          "sha1": null,
-          "size": 1177,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/inventoryprofilesnext/新的世界/villager-trading-config-v2.json",
-          "sha512": "cd571a0a04e5cac8742a477a92037aace3384b27ec079c308221a88c56dd9fa6cfc938cfa538a322b2ef0149c358ebc03d3b4f048436eb5cd6ed90786cffbad1",
-          "sha1": null,
-          "size": 1177,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/blacklist.json",
-          "sha512": "81642eeec041a8913fee828a23ee0a103334b5c749396bc21cf7d8c543305a503a417f5384873ba649a28749065bcfb533c285a7f3c4a8cd4bcb820324c49017",
-          "sha1": null,
-          "size": 19,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/ingredient-list-mod-sort-order.ini",
-          "sha512": "501331cfde83ba0bb4df201280e7c4d64d5d056e58e74b618de7d2e49040178afa36b20c2ec3fa92d84b469c13fad012aa96f7b489edb2460bdcab98b572d9b7",
-          "sha1": null,
-          "size": 132,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/ingredient-list-type-sort-order.ini",
-          "sha512": "51acbc749096300e81deb192d99fdc506c0d554b1481c6906098f83fde8e9eb8792ceb63fb475f964d6445ad2590042d0d65781f8342a887b8e574a9d6740914",
-          "sha1": null,
-          "size": 76,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/jei-client.ini",
-          "sha512": "8a5fb96263c532d037e95896f69042de05bbc4ac860a17fb1dcd9c2cd675572a77b17d821082817757ccb9872ea5706458d599f34360fdc9bd85f6bf96e83122",
-          "sha1": null,
-          "size": 11390,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/jei-colors.ini",
-          "sha512": "6fe983c1fbc8bcac18e5abaf392529057160af9a0a9c88ccc42d7ac84ce9a71a175b0b9601e17e73b01ffc32fe2fc3bb15322c0135be9ab053d57154b9b0a0b9",
-          "sha1": null,
-          "size": 1346,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/jei-debug.ini",
-          "sha512": "636d864e514799dbba55b8460a26c6281923edee495103f86131c698b60c005d5dabb284395d623571299779d9db9c54c41ca79f16ee64936cb3362881a73535",
-          "sha1": null,
-          "size": 856,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/jei-mod-id-format.ini",
-          "sha512": "cdb45b244794b28fdab01e12bb082ccfbe08e34b77877837539050e1fa0258f45003bede4fe940fd569968f242340ae05352deee41dd532c059d3d5009dfd6c7",
-          "sha1": null,
-          "size": 465,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/jei/recipe-category-sort-order.ini",
-          "sha512": "003741584c26837c6621c3465e6e6d564dbfbbe417dc02880c57a305285ce75164e7bc58aaa3e2229586a7275481d4cdfb5b4d66b17801ae81f20642770489d4",
-          "sha1": null,
-          "size": 726,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/worldedit/worldedit.properties",
-          "sha512": "f8216fd48f591c17cb6390338e57ca27411577742c326201fe3955497b728cf8c4cf3a5ef311d6f001457fd279594067029e25b42a45313f2505fa52399b5ff1",
-          "sha1": null,
-          "size": 2500,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/lib/client.cfg",
-          "sha512": "bdb681aeb61766238952ad062700f811d267c0f2aeac94e7cf356de36d91f19ea3e2c41dcaa5b2930479f9275bb5862e4ca47442286def6e3c9618c9ba932037",
-          "sha1": null,
-          "size": 26,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/lib/common.cfg",
-          "sha512": "164710fd669d75d25273e70531d9aba5f17ce68d063d9f060f58aac056f4f755c9466e294aceaa29d344fc1d88c1dffa021743f6c7a6a253a90f86dc2f48e331",
-          "sha1": null,
-          "size": 236,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/lib/profiles/default.cfg",
-          "sha512": "02399da7ff280b84cbb078538e4e85e00c785cea8c2beb50457eb6ebabb91634ab131cc1bbd30692c286eee0467d27856cd2cac0c9c18d799bf19171d1d0a3fa",
-          "sha1": null,
-          "size": 121,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/lib/server_profiles/default.cfg",
-          "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
-          "sha1": null,
-          "size": 75,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/client.cfg",
-          "sha512": "45526f5d47396565801fa90b788c0818ce9fd390533b9a96331c0a2750554809adc7d33b89c657f3a68428228804495c3715ad97aa86d9756c46cde1b949f330",
-          "sha1": null,
-          "size": 235,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/common.cfg",
-          "sha512": "dba4271d6bed5a92406cf111ae3e209a57f05bfbc161e4016bfef72c915c69466e0c027f7c65e400b47c2cf037f1d0874ca0e85a20ee8dc1a0b182d2c5016682",
-          "sha1": null,
-          "size": 147,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/default_radar_categories_client.json",
-          "sha512": "edbf2ade16766873f7c9e00a3727cdc1a17cd08dc29b40b6b8dac208190ea6942ef0dac356684e5dee5ec3cf229a8d8931d60dc0c2d180a7295f895f8a8c8c81",
-          "sha1": null,
-          "size": 5531,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/default_radar_categories_server.json",
-          "sha512": "3cc68ebc3b061d9475f2798d6589aa07c943bcee8e4eedc07647f2062392b55135b0726110f25676722f7fce12b8a655bea14b8eedf0eaa4c14b07176f69f9ab",
-          "sha1": null,
-          "size": 4597,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/profiles/default.cfg",
-          "sha512": "756501db46beff266f5530094922faf25fe91a7a8835265e04411c75a1284ba8153ef05a0eb59b9b9a64b5258bbd88de4804b2c376747ccf0f6df52fbf8814e9",
-          "sha1": null,
-          "size": 3825,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/profiles/info_display_config/default.cfg.txt",
-          "sha512": "24333ae933428753dfa60922bb114a91941b61f1a213a83ce05c795c8f2482d18faf4b965169d796a13fa29d790532b46fdbcae25652c05e88123fa57be8d991",
-          "sha1": null,
-          "size": 684,
-          "source": "repo",
-          "downloads": null
-        },
-        {
-          "path": "config/xaero/minimap/server_profiles/default.cfg",
-          "sha512": "69ca53142222df7b6eaa90b0145430ee5c038d9857938ec7b3a87755784ecd9571e22eec2e5941059b32da6bf2c4b78198abe3192b05f132dc32962096c3df7d",
-          "sha1": null,
-          "size": 75,
-          "source": "repo",
-          "downloads": null
         },
         {
           "path": "PCL/config.json",
