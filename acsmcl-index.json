@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-30T15:45:20Z",
+  "updatedAt": "2026-08-30T15:49:27Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,8 +725,8 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "d99cfe78a10537f8897eb3528b04a80ccdac2602a376eeabd272387ca532c3ca9df1c58faa8e7cfc61ce82a92b7f3eca21dc1c572219ff914d31340aa2cd36d6",
-        "versionId": "1.0.7"
+        "sha512": "5fd47f7ab42d8f0e2a4cca3e888d5b631dbbdda1e1debde62b390672bc19b47d9fe7b909f556626b2d2aa74bd87d0f2ee2edb909a05679662bcb356a4ed50e0b",
+        "versionId": "1.1.0"
       },
       "files": [
         {
@@ -739,6 +739,18 @@
             "https://mediafilez.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
             "https://edge.forgecdn.net/files/5729/127/cloth-config-15.0.140-neoforge.jar",
             "https://cdn.modrinth.com/data/9s6osm5g/versions/izKINKFg/cloth-config-15.0.140-neoforge.jar"
+          ]
+        },
+        {
+          "path": "mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+          "sha512": "c7aa3c1c35ff7aa232c0627fc9552b845f834c0319c24bf313539bac755c2f3e3a7454f34b7fd6114b7738598b3aaeb0018775914d3bcbc03f68b797060d3fa9",
+          "sha1": null,
+          "size": 98709,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7454/578/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+            "https://edge.forgecdn.net/files/7454/578/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
+            "https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar"
           ]
         },
         {
@@ -917,18 +929,6 @@
             "https://mediafilez.forgecdn.net/files/8126/570/create_power_loader-2.0.5-mc1.21.1.jar",
             "https://edge.forgecdn.net/files/8126/570/create_power_loader-2.0.5-mc1.21.1.jar",
             "https://cdn.modrinth.com/data/wPQ6GgFE/versions/3Y4r0ItR/create_power_loader-2.0.5-mc1.21.1.jar"
-          ]
-        },
-        {
-          "path": "mods/[机械动力：筛子] createsifter-1.21.1-2.3.0.jar",
-          "sha512": "45dc85de21ae015e9dbaa151972e7ee114e2135b667e58a33bde5ce48821b0bb03965b79fb4a9ca1a494ac6f16f45a0a47031b4c1a44d86eb1250e73fb290e77",
-          "sha1": null,
-          "size": 709755,
-          "source": "cdn",
-          "downloads": [
-            "https://mediafilez.forgecdn.net/files/8418/559/createsifter-1.21.1-2.3.0.jar",
-            "https://edge.forgecdn.net/files/8418/559/createsifter-1.21.1-2.3.0.jar",
-            "https://cdn.modrinth.com/data/r018adCw/versions/Z5bTlA6P/createsifter-1.21.1-2.3.0.jar"
           ]
         },
         {
