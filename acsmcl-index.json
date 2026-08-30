@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-30T15:50:35Z",
+  "updatedAt": "2026-08-30T15:50:43Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -726,7 +726,7 @@
       "pack": {
         "format": "manifest-v2",
         "sha512": "5fd47f7ab42d8f0e2a4cca3e888d5b631dbbdda1e1debde62b390672bc19b47d9fe7b909f556626b2d2aa74bd87d0f2ee2edb909a05679662bcb356a4ed50e0b",
-        "versionId": "1.1.2"
+        "versionId": "1.1.3"
       },
       "files": [
         {
