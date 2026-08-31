@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-30T15:50:43Z",
+  "updatedAt": "2026-08-31T07:58:09Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,8 +725,8 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "5fd47f7ab42d8f0e2a4cca3e888d5b631dbbdda1e1debde62b390672bc19b47d9fe7b909f556626b2d2aa74bd87d0f2ee2edb909a05679662bcb356a4ed50e0b",
-        "versionId": "1.1.3"
+        "sha512": "3b8566e979a7bbfb4225dcb7d732bdc10c3cb16d5329487cfe43fa4e75d662b07da13b0ef816aca10c86afdc325f5b340f62543b671c04f8ee4fc51a3bf2d04a",
+        "versionId": "1.1.5"
       },
       "files": [
         {
@@ -939,6 +939,30 @@
           "source": "cdn",
           "downloads": [
             "https://cdn.modrinth.com/data/oWaK0Q19/versions/Vzp221Un/create-aeronautics-bundled-1.21.1-1.3.1.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力：附魔工业] create-enchantment-industry-2.5.3b.jar",
+          "sha512": "790b80911610279af6a189d17e49f7d4c30d4646117f4208f230b15a58432873767e699afb02a4e6cdedfb104252e3c729f7191ff7f2748fde405d0f7653743c",
+          "sha1": null,
+          "size": 1606407,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8762/719/create-enchantment-industry-2.5.3b.jar",
+            "https://edge.forgecdn.net/files/8762/719/create-enchantment-industry-2.5.3b.jar",
+            "https://cdn.modrinth.com/data/JWGBpFUP/versions/ASyjJTVL/create-enchantment-industry-2.5.3b.jar"
+          ]
+        },
+        {
+          "path": "mods/[机械动力：龙+] CreateDragonsPlus-1.11.7b.jar",
+          "sha512": "4b86f50641b95532d8662e333b1805f0938bf49d1fd9ee7bd4920dca7a4c3707e11f95d44d6a6ce250acc0d534f08ffd2a7891308d587c4d63ce63be3377ae83",
+          "sha1": null,
+          "size": 1038830,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8633/162/CreateDragonsPlus-1.11.7b.jar",
+            "https://edge.forgecdn.net/files/8633/162/CreateDragonsPlus-1.11.7b.jar",
+            "https://cdn.modrinth.com/data/dzb1a5WV/versions/zQDQbNih/CreateDragonsPlus-1.11.7b.jar"
           ]
         },
         {
