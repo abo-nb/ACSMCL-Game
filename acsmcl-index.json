@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-08-31T12:20:33Z",
+  "updatedAt": "2026-09-01T09:46:19Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,8 +725,8 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "42a676d2b7b1e141d4e30a0dc6032d9b6adf3021265d4254030a6087189e4769f69b160d4d911502d75235ff56617df49f3cbc998e72e8d1e6746ed43eb17695",
-        "versionId": "1.1.7"
+        "sha512": "be61ee7fc8ff467acf43e4bcd3d56efb65f3826c0ebb7d3c4a5efe530874f46ad07aac1a445861ba204ba8aa5212a162ace3b83fe53c672d73ac749f94086d35",
+        "versionId": "1.1.9"
       },
       "files": [
         {
@@ -797,6 +797,18 @@
             "https://mediafilez.forgecdn.net/files/8418/818/mechanicals-1.21.1-1.1.6.jar",
             "https://edge.forgecdn.net/files/8418/818/mechanicals-1.21.1-1.1.6.jar",
             "https://cdn.modrinth.com/data/ProvjTA7/versions/GBSlpwLT/mechanicals-1.21.1-1.1.6.jar"
+          ]
+        },
+        {
+          "path": "mods/Placebo-1.21.1-9.9.2.jar",
+          "sha512": "e8b4ba06fdbcdef8f936c39e7ba18bbfd326fad8d2512fd6cec80c899001b506a501b1aeac5eef2a1c2d7dd98f89ae3d94fac357c243027d623e59622bd295b5",
+          "sha1": null,
+          "size": 324058,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8463/693/Placebo-1.21.1-9.9.2.jar",
+            "https://edge.forgecdn.net/files/8463/693/Placebo-1.21.1-9.9.2.jar",
+            "https://cdn.modrinth.com/data/tCkE8p2N/versions/1Ypo4tf4/Placebo-1.21.1-9.9.2.jar"
           ]
         },
         {
@@ -975,6 +987,18 @@
             "https://mediafilez.forgecdn.net/files/8633/162/CreateDragonsPlus-1.11.7b.jar",
             "https://edge.forgecdn.net/files/8633/162/CreateDragonsPlus-1.11.7b.jar",
             "https://cdn.modrinth.com/data/dzb1a5WV/versions/zQDQbNih/CreateDragonsPlus-1.11.7b.jar"
+          ]
+        },
+        {
+          "path": "mods/[神化刷怪笼] ApothicSpawners-1.21.1-1.4.0.jar",
+          "sha512": "2fdd49cdb3e6610846c3a746ab0730d6d49412eaf8c21e3d0b9d588d80c8cd1a1d0b7e19ade7fc86fd699ac02e270e5fa01fb5cf106d24a7740692ecc1ad8820",
+          "sha1": null,
+          "size": 129784,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8469/405/ApothicSpawners-1.21.1-1.4.0.jar",
+            "https://edge.forgecdn.net/files/8469/405/ApothicSpawners-1.21.1-1.4.0.jar",
+            "https://cdn.modrinth.com/data/DfxVkOAO/versions/pWfxcfO2/ApothicSpawners-1.21.1-1.4.0.jar"
           ]
         },
         {
