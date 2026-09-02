@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-09-01T09:46:19Z",
+  "updatedAt": "2026-09-02T06:18:14Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,8 +725,8 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "be61ee7fc8ff467acf43e4bcd3d56efb65f3826c0ebb7d3c4a5efe530874f46ad07aac1a445861ba204ba8aa5212a162ace3b83fe53c672d73ac749f94086d35",
-        "versionId": "1.1.9"
+        "sha512": "f6264b15317e41bffb2f208c0e02e97e7535862aa584e1690b8d5095b6c25fd00a762a7696210380a060c82bd1028fae32a70f45c6fc346029977d0d21725bca",
+        "versionId": "1.1.11"
       },
       "files": [
         {
@@ -742,6 +742,18 @@
           ]
         },
         {
+          "path": "mods/collective-1.21.1-8.39.jar",
+          "sha512": "5e8d257650b2ace041df4743172797dfa86faeaa3fa2db13890482f433b189bad037c4f5399b5b5b0e3e65fab0c0887ef65e5c5c24eba6c09da8f95ed3435b02",
+          "sha1": null,
+          "size": 1061931,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8341/460/collective-1.21.1-8.39.jar",
+            "https://edge.forgecdn.net/files/8341/460/collective-1.21.1-8.39.jar",
+            "https://cdn.modrinth.com/data/e0M1UDsY/versions/4XRlrKGN/collective-1.21.1-8.39.jar"
+          ]
+        },
+        {
           "path": "mods/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
           "sha512": "c7aa3c1c35ff7aa232c0627fc9552b845f834c0319c24bf313539bac755c2f3e3a7454f34b7fd6114b7738598b3aaeb0018775914d3bcbc03f68b797060d3fa9",
           "sha1": null,
@@ -751,6 +763,18 @@
             "https://mediafilez.forgecdn.net/files/7454/578/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
             "https://edge.forgecdn.net/files/7454/578/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar",
             "https://cdn.modrinth.com/data/aqYNR6rI/versions/1Z1LCW5Z/create_copper_and_zinc-2.0.0-neoforge-1.21.1.jar"
+          ]
+        },
+        {
+          "path": "mods/enchantmentlevelcapindicator-1.21.1-1.1.jar",
+          "sha512": "59a7d6dc0be09600f851c2b667d3b7b5e2298e3667b51bf2f6a006034bc3e7513196bd18657b8f518c3630211c964e24c521b6456ccd929e454bc836e6b715ea",
+          "sha1": null,
+          "size": 43863,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/6250/442/enchantmentlevelcapindicator-1.21.1-1.1.jar",
+            "https://edge.forgecdn.net/files/6250/442/enchantmentlevelcapindicator-1.21.1-1.1.jar",
+            "https://cdn.modrinth.com/data/82BWabBj/versions/IkfOhpeM/enchantmentlevelcapindicator-1.21.1-1.1.jar"
           ]
         },
         {
