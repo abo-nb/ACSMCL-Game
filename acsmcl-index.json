@@ -1,7 +1,7 @@
 {
   "$schema": "acsmcl-index-v1",
   "version": 1,
-  "updatedAt": "2026-09-02T07:32:13Z",
+  "updatedAt": "2026-09-02T12:59:24Z",
   "instances": [
     {
       "id": "jiwen-chicken-power",
@@ -725,8 +725,8 @@
       "recommendedJavaMajor": 21,
       "pack": {
         "format": "manifest-v2",
-        "sha512": "f6264b15317e41bffb2f208c0e02e97e7535862aa584e1690b8d5095b6c25fd00a762a7696210380a060c82bd1028fae32a70f45c6fc346029977d0d21725bca",
-        "versionId": "1.1.12"
+        "sha512": "3338e8fbd7ef04a67ce4c810fa3841efea4f8d9b422983a8fc5fd0e4d5d505aff2e13d4a7186d3c5412979bfe87da5e90ae068a58f2f20857e83c733db46e632",
+        "versionId": "1.1.14"
       },
       "files": [
         {
@@ -824,6 +824,18 @@
           ]
         },
         {
+          "path": "mods/neoforge-carpet-1.21.1-1.0.8+v251027.jar",
+          "sha512": "1251195e45340b475b6ee8ea7712b33d9f5f84c87ec1f783e6276b12fc93cec877cefcfb083758395d09da5a890de5c659bbb1357e7092d5c70567b22629038e",
+          "sha1": null,
+          "size": 1498683,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/7156/883/neoforge-carpet-1.21.1-1.0.8%2bv251027.jar",
+            "https://edge.forgecdn.net/files/7156/883/neoforge-carpet-1.21.1-1.0.8%2bv251027.jar",
+            "https://cdn.modrinth.com/data/XqqOkvZz/versions/lnOeoKcQ/neoforge-carpet-1.21.1-1.0.8%2Bv251027.jar"
+          ]
+        },
+        {
           "path": "mods/Placebo-1.21.1-9.9.2.jar",
           "sha512": "e8b4ba06fdbcdef8f936c39e7ba18bbfd326fad8d2512fd6cec80c899001b506a501b1aeac5eef2a1c2d7dd98f89ae3d94fac357c243027d623e59622bd295b5",
           "sha1": null,
@@ -845,6 +857,18 @@
             "https://mediafilez.forgecdn.net/files/8673/825/sable-neoforge-1.21.1-2.0.5.jar",
             "https://edge.forgecdn.net/files/8673/825/sable-neoforge-1.21.1-2.0.5.jar",
             "https://cdn.modrinth.com/data/T9PomCSv/versions/U678xqle/sable-neoforge-1.21.1-2.0.5.jar"
+          ]
+        },
+        {
+          "path": "mods/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+          "sha512": "ce14e985ce16d0517e7b1d41969a244818f46c1e4ae93842c3149963990aa488692c5372ecc4b71fe560a99794a3f865244dbef5b182beec4411148b4f83c53c",
+          "sha1": null,
+          "size": 57242132,
+          "source": "cdn",
+          "downloads": [
+            "https://mediafilez.forgecdn.net/files/8547/439/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+            "https://edge.forgecdn.net/files/8547/439/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+            "https://cdn.modrinth.com/data/OypNE65K/versions/wPvGWIj9/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
           ]
         },
         {
